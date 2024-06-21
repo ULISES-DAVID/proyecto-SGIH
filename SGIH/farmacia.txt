@@ -1,0 +1,13 @@
+Paracetamol - 90
+Ibuprofeno - 78 
+Dominion - 68
+acido acetisalitico - 56
+penicilina - 67
+amoxilina - 45 
+azitromicina - 23 
+cetizirina - 67
+tabcin - 78
+aspirina - 23
+
+
+
