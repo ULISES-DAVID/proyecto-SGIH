@@ -1,0 +1,5 @@
+Nombre: gatita
+Edad: 15
+Sexo: masculino
+Enfermedad: gonorrea 
+Curp: reoguhfhfhf

@@ -1,0 +1,5 @@
+Nombre: Ulises
+Edad: 15
+Sexo: Masculino
+Enfermedad: Sida
+Curp: t734y43uitijg

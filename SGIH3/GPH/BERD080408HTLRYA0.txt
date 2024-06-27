@@ -1,0 +1,5 @@
+Nombre: Daniel
+Edad: 16
+Sexo: Masculino
+Enfermedad: Retraso
+Curp: BERD080408HTLRYA0
